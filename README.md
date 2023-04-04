@@ -8,11 +8,11 @@
 
 ### Linguagens Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsantiago&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsantiago&langs_count=8)](https://github.com/rafaelmsantiago/)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmsantiago&repo=jornadadev&theme=dark)](https://github.com/anuraghazara/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmsantiago&repo=jornadadev&theme=dark)](https://github.com/rafaelmsantiago/jornadadev)
 
 ### Contato
 
