@@ -1,20 +1,22 @@
 ### Olá Pessoal 👋
 
-### DETALHES
+
+
+### Detalhes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmsantiago&show_icons=true&theme=tokyonight)
 
-### LINGUAGENS UTILIZADAS 
+### Linguagens Utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsantiago&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### PROJETOS
+### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmsantiago&repo=jornadadev&theme=dark)](https://github.com/anuraghazara/github-readme-stats)
 
-### CONTATOS
+### Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rafaelmsantiago/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rafaelmsantiago/)
 
 
 
